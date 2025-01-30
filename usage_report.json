@@ -1,7 +1,5 @@
-
-
 {
-  "repositories": [
+ "repositories": [
     {
       "name": "a-fun-new-org/a-repo",
       "advanced_security_committers": 1,
@@ -10,9 +8,9 @@
           "user_login": "vishaljsoni",
           "last_pushed_date": "2025-01-21",
           "last_pushed_email": "vishaljsoni@github.com"
-        }
-      ]
-    },
+            }
+          ]
+        },
     {
       "name": "ace-copilot-business/fake-security-mistakes",
       "advanced_security_committers": 1,
@@ -367,4 +365,6 @@
         }
       ]
     }
-    }
+  ]
+}
+    
